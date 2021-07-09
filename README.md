@@ -2,7 +2,7 @@
 
 
  THE MAIN GOAL IS TO REDUCING BLACK MARKETING AND HOARDING BY BRINGING IN TRANSPARENCY.
- done by a decentralized system created using a blockchain
+ done by a decentralized system created using a blockchain and its hashing algo
 this is a work in progress the HTML page needs some work and has to be connected to the script.
 
 The end product that I want to achieve is that :
